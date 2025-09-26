@@ -52,3 +52,4 @@ format = "[$virtualenv]($style) "
 style = "bright-black"
 
 # Note: let me know if there are issues on this please, i dont know if this works good...
+# btw place this file in your ~/.config (unix/unix-based/unix-like) or ~\.config (windows)
