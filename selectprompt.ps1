@@ -11,5 +11,5 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\pure.omp.json" | Invoke-Exp
 } else {
     Write-Host "Invalid input. Please enter 1 or 2."
 }
-# place this file in home directory
+# place this file in home directory (~)
 # 14th and this line are not in my selectprompt ps1 file...
